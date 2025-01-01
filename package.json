@@ -1,0 +1,9 @@
+{
+  "name": "renovate-42353-repro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal reproduction for renovatebot/renovate#42353 - semantic commit prefix stripped from PR titles since v43.104.0",
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
